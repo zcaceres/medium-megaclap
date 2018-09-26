@@ -5,8 +5,6 @@
   "description": "Instantly give 50 claps to awesome Medium posts.",
   "version": "1.0.0",
   "author": "Zach Caceres (@zachcaceres | zachcaceres.com)",
-  "icons": {
-  },
   "content_scripts": [
     {
       "matches": ["https://medium.com/*"],
